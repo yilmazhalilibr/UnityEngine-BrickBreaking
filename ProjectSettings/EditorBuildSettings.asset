@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ana_sahne.unity
+    guid: 8720ea505e9d0aa4d92bb055d1e4d048
+  - enabled: 1
+    path: Assets/Scenes/Bolum1.unity
+    guid: e97728d497845a642b517db649ea631a
+  - enabled: 1
+    path: Assets/Scenes/Bolum2.unity
+    guid: 78ac930983387724ca15b76b924ee265
+  - enabled: 1
+    path: Assets/Scenes/OyunuKazandiniz.unity
+    guid: 2409e54131d5a75409802e5f70cafe14
+  - enabled: 1
+    path: Assets/Scenes/OyunuKaybettiniz.unity
+    guid: 342614c617418a244b948a03ad889325
+  m_configObjects: {}
